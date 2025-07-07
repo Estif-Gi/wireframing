@@ -82,3 +82,8 @@ Example:
 A digital wireframe of a website with actual button labels, placeholder images, and a defined grid structure.
 # it is a high fidality wireframe
 
+# figma
+Figma is a cloud-based design and prototyping tool widely used for wireframing, UI/UX design, and collaboration. Its intuitive interface and powerful features make it a top choice for designers creating both low-fidelity and high-fidelity wireframes.
+
+
+
