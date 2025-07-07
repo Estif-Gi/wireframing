@@ -89,5 +89,8 @@ Figma is a cloud-based design and prototyping tool widely used for wireframing, 
 # benefits of wireframing from a software development perspective
 
 Wireframing is a crucial step in the software development lifecycle (SDLC) that bridges the gap between concept and execution. From a development perspective, it offers several key advantages that streamline workflows, reduce risks, and improve the final product.
+# real worled example
+
+describe a real-world scenario where wireframing identified potential usability issues before the development phase. Explain how these issues were resolved and how it impacted the final product. Conclude by summarizing the role of wireframing in ensuring a user-friendly design.
 
 
