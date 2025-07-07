@@ -1,3 +1,4 @@
+
 # wireframing
 
 Wireframes serve as the blueprint for a digital product, outlining its structure and functionality before visual design and development begin. Below are the key elements found in a wireframe and how they contribute to the overall design:
@@ -85,5 +86,8 @@ A digital wireframe of a website with actual button labels, placeholder images, 
 # figma
 Figma is a cloud-based design and prototyping tool widely used for wireframing, UI/UX design, and collaboration. Its intuitive interface and powerful features make it a top choice for designers creating both low-fidelity and high-fidelity wireframes.
 
+# benefits of wireframing from a software development perspective
+
+Wireframing is a crucial step in the software development lifecycle (SDLC) that bridges the gap between concept and execution. From a development perspective, it offers several key advantages that streamline workflows, reduce risks, and improve the final product.
 
 
