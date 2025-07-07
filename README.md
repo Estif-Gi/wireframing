@@ -29,3 +29,56 @@ Definition: Visual cues that represent interactive elements like buttons, forms,
 Purpose: Clarifies how users will interact with the interface.
 
 Example: A wireframe for a login page includes placeholder fields for "Username" and "Password," along with a "Submit" button. This helps stakeholders understand user actions without needing a fully designed prototype.
+
+# Types of Wireframes
+1. Low-Fidelity (Lo-Fi) Wireframes
+Definition: Simple, rough sketches or digital outlines that focus on structure and layout without visual details.
+
+Characteristics:
+Basic shapes & placeholders (e.g., boxes for images, squiggly lines for text).
+
+Minimal or no colors (usually grayscale).
+
+No typography or branding (uses generic fonts).
+
+Focuses on functionality & layout rather than aesthetics.
+
+When Are They Used?
+Early ideation phase (brainstorming concepts).
+
+Rapid prototyping (quick iterations before committing to a design).
+
+Stakeholder & team feedback (focuses on structure, not visuals).
+
+User flow & navigation testing (validating usability before refining details).
+
+Example:
+A hand-drawn sketch of a mobile app’s home screen with boxes labeled "Header," "Search Bar," and "Product Grid."
+
+2. High-Fidelity (Hi-Fi) Wireframes
+Definition: More polished and detailed wireframes that closely resemble the final product.
+
+Characteristics:
+Refined layout & spacing (pixel-accurate alignment).
+
+Real content (or close to final) (not just "lorem ipsum").
+
+Typography & basic branding (font styles, logo placement).
+
+Interactive elements (buttons, dropdowns, hover states).
+
+May include simple colors & icons (but not full visual design).
+
+When Are They Used?
+Late-stage design refinement (after lo-fi wireframes are approved).
+
+Client & developer handoff (clearer specifications for UI development).
+
+User testing with near-final interactions (more accurate feedback).
+
+Transition to full mockups & prototypes (before final UI design).
+
+Example:
+A digital wireframe of a website with actual button labels, placeholder images, and a defined grid structure.
+# it is a high fidality wireframe
+
